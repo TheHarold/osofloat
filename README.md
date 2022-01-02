@@ -6,6 +6,3 @@ En esta animación se muestra a la cabeza de un oso negro, el cual esta levitand
 CSS3 nivel Intermedio, acepto cualquier critica constructiva, eres libre de utilizar el codigo para cualquier proyecto.
 
 Muchas gracias por leer.
-
-Attentamente,
-The Harold.
