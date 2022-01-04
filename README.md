@@ -1,8 +1,3 @@
-# osofloat
-
-Bienvenidos a la animación de un oso flotante!
+A simple fun animation
 ---------------------------------------------
-En esta animación se muestra a la cabeza de un oso negro, el cual esta levitando, tiene animaciones tanto en su cabeza, ojos y boca, todo esto fue hecho con HTML y 
-CSS3 nivel Intermedio, acepto cualquier critica constructiva, eres libre de utilizar el codigo para cualquier proyecto.
-
-Muchas gracias por leer.
+It's one of my first practices with CSS, it's nothing outstanding, but it was a way to entertain myself, thanks for watching.
